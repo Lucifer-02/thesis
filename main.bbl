@@ -1,0 +1,53 @@
+\begin{thebibliography}{9}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Ansam~Khraisat(2018)]{sids}
+Peter~Vamplew Ansam~Khraisat, Igbal~Gondal.
+\newblock An anomaly intrusion detection system using c5 decision tree classifier. in: Trends and applications in knowledge discovery and data mining.
+\newblock \emph{Springer}, 2018.
+
+\bibitem[Audrey~Wilmet(2018)]{related2}
+Matthieu~Latapy Audrey~Wilmet, Tiphaine~Viard.
+\newblock Degree-based outliers detection within ip traffic modelled as a link stream.
+\newblock \emph{Network Traffic Measurement and Analysis Conference(TMA)}, 2018.
+
+\bibitem[Dimitrije~Jankov(2017)]{related1}
+Sourav~Sikdar Dimitrije~Jankov.
+\newblock Real-time high performance anomaly detection over data streams: Grand challenge.
+\newblock \emph{DEBS}, 2017.
+
+\bibitem[Graham~Cormode(2005)]{cms_full}
+S.~Muthukrishnan Graham~Cormode.
+\newblock An improved data stream summary:the count-min sketch and its applications.
+\newblock \emph{Journal of Algorithms}, 2005.
+
+\bibitem[Graham~Cormode(2011)]{cms_error}
+S.~Muthukrishnan Graham~Cormode.
+\newblock Approximating data with the count-min data structure.
+\newblock \emph{abc}, 2011.
+
+\bibitem[Griffiths(2023)]{survey2023}
+Charles Griffiths.
+\newblock The latest 2023 cyber crime statistics (updated march 2023).
+\newblock Technical report, AAG, 2023.
+
+\bibitem[Ismail~Butun(2014)]{aids}
+Ravi~Sankar Ismail~Butun, Salvatore D.~Morgera.
+\newblock A survey of intrusion detection systems in wireless sensor networks.
+\newblock \emph{IEEE}, 16, 2014.
+
+\bibitem[Siddharth~Bhatia(2020)]{midas}
+Minji~Yoon Siddharth~Bhatia, Bryan~Hooi.
+\newblock Midas: Microcluster-based detector of anomalies in edge streams.
+\newblock \emph{abc}, 2020.
+
+\bibitem[Siddharth~Bhatia(2022)]{midasr}
+Minji~Yoon Siddharth~Bhatia, Bryan~Hooi.
+\newblock Real-time anomaly detection in edge streams.
+\newblock \emph{ACM}, 2022.
+
+\end{thebibliography}
